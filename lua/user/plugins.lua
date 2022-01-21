@@ -63,7 +63,7 @@ return packer.startup(function(use)
 	use("tpope/vim-repeat")
 	use("tpope/vim-speeddating")
   use("tpope/vim-surround")
-  -- use("wellle/targets.vim")
+  use("wellle/targets.vim")
   use("ggandor/lightspeed.nvim")
 
 	-- Colorschemes
